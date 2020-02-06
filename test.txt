@@ -1,0 +1,24 @@
+git init
+vim hello.java
+git add
+git commit
+
+git bash > git init//로컬저장소라고 기억//->
+
+
+로컬저장소와 원격저장소 연결
+
+git add .   --올리는 코드
+                                                     ^--^
+git push origin master   --- 올리는코드 |ㅇ.ㅇ|
+
+git pull origin master
+
+
+
+
+git init
+
+git remote add origin http://github.com/goldfrog96/goldfrogjava.git
+
+repo이름이 goldfrogjava
